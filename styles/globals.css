@@ -1,0 +1,25 @@
+* {
+  overflow-x: hidden;
+}
+
+.image-blocks {
+  border: 2px solid black !important;
+}
+
+.property-image {
+  width : 1000px;
+  height : 500px;
+}
+
+@media (max-width: 500px) {
+  .property-image {
+    width : 100px;
+    height: 50px;
+  }
+}
+@media (max-width: 1023px) {
+  .property-image {
+    width : 400px;
+    height: 200px;
+  }
+}
