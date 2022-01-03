@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-buyreal-dev-113702-authRole",
+            "UnauthRoleArn": "arn:aws:iam::637273609845:role/amplify-buyreal-dev-113702-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::637273609845:role/amplify-buyreal-dev-113702-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-buyreal-dev-113702-deployment",
+            "UnauthRoleName": "amplify-buyreal-dev-113702-unauthRole",
+            "StackName": "amplify-buyreal-dev-113702",
+            "StackId": "arn:aws:cloudformation:us-east-1:637273609845:stack/amplify-buyreal-dev-113702/6132ddb0-6c5b-11ec-b538-0a27e9fa7991",
+            "AmplifyAppId": "dh42w4iknxrsg"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "dh42w4iknxrsg",
+                    "type": "cicd"
+                }
+            }
+        }
+    }
+}

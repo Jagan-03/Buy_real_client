@@ -5,8 +5,8 @@ import { Button, Menu, MenuButton, MenuList, MenuItem, IconButton, Flex, Box, Sp
 import { FcMenu, FcHome, FcAbout } from "react-icons/fc";
 import { BsSearch } from "react-icons/bs";
 import { FiKey } from "react-icons/fi";
-import { AiOutlineUser } from "react-icons/Ai";
-import { FaUserCircle } from "react-icons/Fa";
+import { AiOutlineUser } from "react-icons/ai";
+import { FaUserCircle } from "react-icons/fa";
 import { useRouter } from "next/router";
 
 const Navbar = () => {
