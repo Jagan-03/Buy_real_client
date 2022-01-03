@@ -156,7 +156,7 @@ const Register = () => {
 
           <Box>
             <GoogleLogin
-              clientId="1312823965-uqd893em6uqren1hf008dbt4iqoqtrko.apps.googleusercontent.com"
+              clientId="806620994463-5psmmu9fg32p1tlkb1fpk2de9bh8224q.apps.googleusercontent.com"
               render={(GoogleLoginProps) => (
                 <Button
                   onClick={GoogleLoginProps.onClick}
